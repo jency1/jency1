@@ -4,7 +4,7 @@
 <!-- Adding Header -->
 
 <h1 align="center">Hi 👋 there, I'm Jency Maheshwari</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<h3 align="center">A passionate Frontend Developer</h3>
 
 
 <!-- Adding Image -->
@@ -21,7 +21,7 @@
 
 <!-- Adding Basic Info -->
 
-- 🌱 **I’m currently learning:** Web Development, DSA <br>
+- 🌱 **I’m currently learning:** Frontend Development, DSA <br>
 
 - 📫 **How to reach me:** jencymaheshwari2004@gmail.com <br>
 
