@@ -222,9 +222,8 @@
 
 # 🏆 GitHub Trophies:
 
-![](https://github-profile-trophy.vercel.app/?username=jency1&theme=tokyonight&no-frame=false&no-bg=true&margin-w=20&margin-h=20)
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jency1" alt="jency1" /></a> </p> -->
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jency1" alt="jency1" /></a> </p> 
  
 
 
