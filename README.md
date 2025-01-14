@@ -222,9 +222,9 @@
 
 # 🏆 GitHub Trophies:
 
-
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jency1" alt="jency1" /></a> </p> 
  
+<!-- [![jency1](https://github-profile-trophy.vercel.app/?username=jency1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 
 <br><br>
