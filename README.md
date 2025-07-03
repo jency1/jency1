@@ -1,187 +1,120 @@
 <!-- ![MasterHead](https://wcs.uwo.ca/upload/CE0060b.png) -->
 
 
-<!-- Adding Header -->
+<!-- Header -->
 
 <h1 align="center">Hi 👋 there, I'm Jency Maheshwari</h1>
 <h3 align="center">
-  💻 A Passionate Frontend & DSA Enthusiast
+  💻 A Passionate Developer & DSA Enthusiast
 </h3>
 
-
-<!-- Adding Image -->
-
 <img align="right" alt="Coding" width="300" height="200" src="https://www.webcapz.com.ng/wp-content/uploads/2023/11/Tech-Coding-Class-For-Kids-710x520.png">
-
-<br><br>
-
-<!-- Adding Profile Views -->
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jency1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 
+<!-- Basic Info -->
 
-<!-- Adding Basic Info -->
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="24" align="center" /> Actively building dynamic and responsive interfaces with **Frontend Development**
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" align=center /> I’m currently working on **Frontend Development**
-  
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" align=center /> I’m currently Strengthening my Knowledge in **Data Structures and Algorithms**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="24" align="center" /> Consistently improving problem-solving skills through **Data Structures & Algorithms**
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Globe Showing Asia-Australia" width="30" align="center" /> Open Source Contributor from **India** (🇮🇳)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Globe" width="24" align="center" /> Passionate about open-source, contributing to projects as a developer from **India** 🇮🇳
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" align=center /> I’m looking to collaborate with **Open Source Enthusiasts** and **Developers**.
-  
-- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Round%20Pushpin.png" alt="Location" width="30" align=center />  **Location:** India
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="24" align="center" /> Eager to collaborate with fellow **Tech Enthusiasts** & **Open Source Contributors**
 
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Round%20Pushpin.png" alt="Location" width="24" align="center" /> Currently based in **India**
 
 <br>
 
 
-<!-- Adding Links to Connect -->
+<!-- Connect -->
 
-# <b> Let's Connect: </b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width ="30 ">
+<h1><b>Let's Connect:</b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30"/></h1>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/jency-maheshwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jency-maheshwari" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/jency-maheshwari" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jency-maheshwari" height="30" width="40" />
+  </a>
 </p>
-
-<br>
-
 <br>
 
 
-<!-- Adding Languages and Tools -->
+<!-- Languages and Tools -->
 
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills:</b> 💻
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b> Skills:</b> 💻
 
-<table align="center" class="table table-dark">
-  <tr bg-dark>
+<table align="center">
+  <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=c" alt="icon" width="55" height="55" />
-      <br>C
+      <img src="https://skillicons.dev/icons?i=c" width="55" /><br>C
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cpp" alt="icon" width="55" height="55" />
-      <br>C++
+      <img src="https://skillicons.dev/icons?i=cpp" width="55" /><br>C++
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react" alt="icon" width="55" height="55" />
-      <br>React Js
+      <img src="https://skillicons.dev/icons?i=java" width="55" /><br>Java
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" alt="icon" width="55" height="55" />
-      <br>Tailwind
+      <img src="https://skillicons.dev/icons?i=js" width="55" /><br>JavaScript
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vite" alt="icon" width="55" height="55" />
-      <br>Vite
+      <img src="https://skillicons.dev/icons?i=react" width="55" /><br>React.js
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="55" height="55" />
-      <br>Bootstrap
+      <img src="https://skillicons.dev/icons?i=redux" width="55" /><br>Redux
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=redux" alt="icon" width="55" height="55" />
-      <br>Redux
+      <img src="https://skillicons.dev/icons?i=tailwind" width="55" /><br>Tailwind
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=js" alt="icon" width="55" height="55" />
-      <br>JavaScript
+      <img src="https://skillicons.dev/icons?i=materialui" width="55" /><br>MUI
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=html" alt="icon" width="55" height="55" />
-      <br>HTML
+      <img src="https://img.shields.io/badge/Shadcn%20UI-%23181717?style=for-the-badge&logo=shadcnui&logoColor=white" width="55" /><br>Shadcn UI
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=css" alt="icon" width="55" height="55" />
-      <br>CSS
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="55" /><br>Bootstrap
     </td>
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=java" alt="icon" width="55" height="55" />
-      <br>Java
+      <img src="https://skillicons.dev/icons?i=nodejs" width="55" /><br>Node.js
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="55" height="55" />
-      <br>MySQL
+      <img src="https://skillicons.dev/icons?i=express" width="55" /><br>Express.js
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postman" alt="icon" width="55" height="55" />
-      <br>Postman
+      <img src="https://skillicons.dev/icons?i=mongodb" width="55" /><br>MongoDB
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=github" alt="icon" width="55" height="55" />
-      <br>GitHub
+      <img src="https://skillicons.dev/icons?i=mysql" width="55" /><br>MySQL
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" alt="icon" width="55" height="55" />
-      <br>Git
+      <img src="https://skillicons.dev/icons?i=postman" width="55" /><br>Postman
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=netlify" alt="icon" width="55" height="55" />
-      <br>Netlify
+      <img src="https://skillicons.dev/icons?i=git" width="55" /><br>Git
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vercel" alt="icon" width="55" height="55" />
-      <br>Vercel
+      <img src="https://skillicons.dev/icons?i=github" width="55" /><br>GitHub
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="55" height="55" />
-      <br>Figma
+      <img src="https://skillicons.dev/icons?i=figma" width="55" /><br>Figma
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=npm" alt="icon" width="55" height="55" />
-      <br>Npm
+      <img src="https://skillicons.dev/icons?i=vercel" width="55" /><br>Vercel
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="55" height="55" />
-      <br>VS Code
+      <img src="https://skillicons.dev/icons?i=netlify" width="55" /><br>Netlify
     </td>
   </tr>
 </table>
-  
-<!-- 
-  <img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br> 
-  <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
--->
-
-
-<br><br>
-
-
-
-<!-- Adding Hacktoberfest'24 Badges -->
-
-# <b> Hacktoberfest'24 Badges </b> 🪶
-
-[![An image of @jency1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jency1)](https://holopin.io/@jency1)
-
 <br>
 
 
-<!-- Adding GSSOC'24 Badges -->
-
-
-# <b> GSSOC'24 Badges </b> 🪶
-
-<div style='display:flex; align-items:center; gap: 10px;' >
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="110px" height="110px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="110px" height="110px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="110px" height="110px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="110px" height="110px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="110px" height="110px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="110px" height="110px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="110px" height="110px" />
-</div>
-<br>
-
-<br>
-
-
-
-
-<!-- Adding Github Stats and Streak Stats -->
+<!-- Github Stats and Streak Stats -->
 
 # 📊 <b> GitHub Stats: </b>
 
@@ -196,12 +129,10 @@
 </td>
 </tr>
 </table>
-
-
 <br>
 
 
-<!-- Adding Readme Stats and Profile Summary -->
+<!-- Readme Stats and Profile Summary -->
 
 <table width="100%" align="center">
 <tr>
@@ -213,7 +144,6 @@
 </td>
 </tr>
 </table>
-
 <br>
 
 
@@ -222,12 +152,41 @@
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jency1" alt="jency1" /></a> </p> 
  
 <!-- [![jency1](https://github-profile-trophy.vercel.app/?username=jency1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
+<br>
 
 
+<!-- GSSOC'24 Badges -->
+
+# <b> GSSOC'24 Badges </b> 🪶
+
+<div style='display:flex; align-items:center; gap: 10px;' >
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="110px" height="110px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="110px" height="110px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="110px" height="110px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="110px" height="110px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="110px" height="110px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="110px" height="110px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="110px" height="110px" />
+</div>
+<br>
+
+
+<!-- Hacktoberfest'24 Badges -->
+
+# <b> Hacktoberfest'24 Badges </b> 🪶
+
+[![An image of @jency1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jency1)](https://holopin.io/@jency1)
 <br><br>
 
 
-<!-- Adding Footer -->
-
 <div align="center"> <b> Show some ❤️ by starring some of the repositories! </b> </div>
+<br>
+
+<div align="center">
+  Thanks for visiting my GitHub — hope you discovered something interesting! 🌟
+  <br>
+  Feel free to explore and connect! 🔗
+</div>
+
+
 
