@@ -54,9 +54,6 @@
       <img src="https://skillicons.dev/icons?i=cpp" width="55" /><br>C++
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=java" width="55" /><br>Java
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=js" width="55" /><br>JavaScript
     </td>
     <td align="center" width="90">
@@ -70,9 +67,6 @@
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=materialui" width="55" /><br>MUI
-    </td>
-    <td align="center" width="90">
-      <img src="https://img.shields.io/badge/Shadcn%20UI-%23181717?style=for-the-badge&logo=shadcnui&logoColor=white" width="55" /><br>Shadcn UI
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="55" /><br>Bootstrap
@@ -100,14 +94,8 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=github" width="55" /><br>GitHub
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=figma" width="55" /><br>Figma
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vercel" width="55" /><br>Vercel
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=netlify" width="55" /><br>Netlify
+        <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=java" width="55" /><br>Java
     </td>
   </tr>
 </table>
