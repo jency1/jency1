@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋 there, I'm Jency Maheshwari</h1>
 <h3 align="center">
-  💻 A Passionate Developer & DSA Enthusiast
+  💻 Passionate Developer | DSA Enthusiast | Open Source Contributor
 </h3>
 
 <img align="right" alt="Coding" width="300" height="200" src="https://www.webcapz.com.ng/wp-content/uploads/2023/11/Tech-Coding-Class-For-Kids-710x520.png">
